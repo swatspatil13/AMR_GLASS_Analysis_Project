@@ -1,0 +1,173 @@
+IndicatorCode,IndicatorDescription,DisaggregatingDimension1ValueCode,CategoryDescription,Region,Year,Regional_Value,Observation_Count
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED01,Established,AFR,2020,27.65957,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED01,Established,AMR,2020,14.28571,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED01,Established,EMR,2020,50.0,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED01,Established,EUR,2020,35.18519,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED01,Established,SEAR,2020,54.54545,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED01,Established,WPR,2020,25.92593,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED02,Establishment in progress,AFR,2020,4.25532,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED02,Establishment in progress,AMR,2020,2.85714,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED02,Establishment in progress,EMR,2020,18.18182,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED02,Establishment in progress,EUR,2020,1.85185,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED02,Establishment in progress,SEAR,2020,27.27273,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED02,Establishment in progress,WPR,2020,7.40741,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED03,Not established,AFR,2020,0.0,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED03,Not established,AMR,2020,0.0,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED03,Not established,EMR,2020,4.54545,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED03,Not established,EUR,2020,5.55556,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED03,Not established,SEAR,2020,0.0,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED03,Not established,WPR,2020,0.0,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED04,Not reported,AFR,2020,17.02128,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED04,Not reported,AMR,2020,0.0,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED04,Not reported,EMR,2020,18.18182,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED04,Not reported,EUR,2020,3.7037,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED04,Not reported,SEAR,2020,18.18182,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED04,Not reported,WPR,2020,0.0,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,AFR,2020,51.06383,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,AMR,2020,82.85714,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,EMR,2020,9.09091,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,EUR,2020,53.7037,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,SEAR,2020,0.0,1
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,WPR,2020,66.66667,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED01,Established,AFR,2020,31.91489,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED01,Established,AMR,2020,17.14286,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED01,Established,EMR,2020,68.18182,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED01,Established,EUR,2020,38.88889,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED01,Established,SEAR,2020,81.81818,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED01,Established,WPR,2020,33.33333,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED03,Not established,AFR,2020,0.0,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED03,Not established,AMR,2020,0.0,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED03,Not established,EMR,2020,4.54545,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED03,Not established,EUR,2020,3.7037,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED03,Not established,SEAR,2020,0.0,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED03,Not established,WPR,2020,0.0,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,AFR,2020,17.02128,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,AMR,2020,0.0,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,EMR,2020,18.18182,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,EUR,2020,3.7037,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,SEAR,2020,18.18182,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,WPR,2020,0.0,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,AFR,2020,51.06383,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,AMR,2020,82.85714,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,EMR,2020,9.09091,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,EUR,2020,53.7037,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,SEAR,2020,0.0,1
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,WPR,2020,66.66667,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,AFR,2020,21.2766,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,AMR,2020,0.0,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,EMR,2020,31.81818,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,EUR,2020,7.40741,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,SEAR,2020,18.18182,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED04,Not reported,WPR,2020,0.0,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,AFR,2020,48.93617,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,AMR,2020,82.85714,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,EMR,2020,9.09091,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,EUR,2020,51.85185,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,SEAR,2020,0.0,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,WPR,2020,66.66667,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED01,Provided,AFR,2020,29.78723,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED01,Provided,AMR,2020,17.14286,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED01,Provided,EMR,2020,36.36364,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED01,Provided,EUR,2020,40.74074,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED01,Provided,SEAR,2020,72.72727,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED01,Provided,WPR,2020,29.62963,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED02,Not provided,AFR,2020,0.0,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED02,Not provided,AMR,2020,0.0,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED02,Not provided,EMR,2020,22.72727,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED02,Not provided,EUR,2020,0.0,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED02,Not provided,SEAR,2020,9.09091,1
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),AMRGLASS_ISITPROVIDED02,Not provided,WPR,2020,3.7037,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED04,Not reported,AFR,2020,27.65957,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED04,Not reported,AMR,2020,2.85714,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED04,Not reported,EMR,2020,31.81818,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED04,Not reported,EUR,2020,20.37037,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED04,Not reported,SEAR,2020,27.27273,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED04,Not reported,WPR,2020,0.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,AFR,2020,51.06383,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,AMR,2020,82.85714,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,EMR,2020,9.09091,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,EUR,2020,51.85185,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,SEAR,2020,0.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,WPR,2020,66.66667,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITPROVIDED02,Not provided,AFR,2020,0.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITPROVIDED02,Not provided,AMR,2020,0.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITPROVIDED02,Not provided,EMR,2020,0.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITPROVIDED02,Not provided,EUR,2020,0.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITPROVIDED02,Not provided,SEAR,2020,0.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_ISITPROVIDED02,Not provided,WPR,2020,0.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS01,All laboratories,AFR,2020,17.02128,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS01,All laboratories,AMR,2020,14.28571,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS01,All laboratories,EMR,2020,50.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS01,All laboratories,EUR,2020,27.77778,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS01,All laboratories,SEAR,2020,63.63636,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS01,All laboratories,WPR,2020,29.62963,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS02,Some laboratories,AFR,2020,4.25532,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS02,Some laboratories,AMR,2020,0.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS02,Some laboratories,EMR,2020,9.09091,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS02,Some laboratories,EUR,2020,0.0,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS02,Some laboratories,SEAR,2020,9.09091,1
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,AMRGLASS_PROVIDEDTOLABS02,Some laboratories,WPR,2020,3.7037,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS01,CLSI,AFR,2020,21.2766,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS01,CLSI,AMR,2020,8.57143,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS01,CLSI,EMR,2020,59.09091,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS01,CLSI,EUR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS01,CLSI,SEAR,2020,72.72727,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS01,CLSI,WPR,2020,14.81481,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS02,EUCAST,AFR,2020,6.38298,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS02,EUCAST,AMR,2020,2.85714,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS02,EUCAST,EMR,2020,4.54545,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS02,EUCAST,EUR,2020,37.03704,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS02,EUCAST,SEAR,2020,9.09091,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS02,EUCAST,WPR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS03,Both EUCAST/CLSI,AFR,2020,4.25532,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS03,Both EUCAST/CLSI,AMR,2020,5.71429,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS03,Both EUCAST/CLSI,EMR,2020,4.54545,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS03,Both EUCAST/CLSI,EUR,2020,5.55556,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS03,Both EUCAST/CLSI,SEAR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS03,Both EUCAST/CLSI,WPR,2020,18.51852,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS05,Other,AFR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS05,Other,AMR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS05,Other,EMR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS05,Other,EUR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS05,Other,SEAR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ASTSTANDARDS05,Other,WPR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED04,Not reported,AFR,2020,19.14894,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED04,Not reported,AMR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED04,Not reported,EMR,2020,22.72727,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED04,Not reported,EUR,2020,5.55556,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED04,Not reported,SEAR,2020,18.18182,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED04,Not reported,WPR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,AFR,2020,48.93617,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,AMR,2020,82.85714,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,EMR,2020,9.09091,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,EUR,2020,51.85185,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,SEAR,2020,0.0,1
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,AMRGLASS_ISITESTABLISHED05,Not enrolled in GLASS,WPR,2020,66.66667,1
+AMRGLASS_SURVL01,Number of surveillance sites reporting to GLASS: Hospitals,,Not disaggregated or unavailable,AFR,2020,217.0,1
+AMRGLASS_SURVL01,Number of surveillance sites reporting to GLASS: Hospitals,,Not disaggregated or unavailable,AMR,2020,76.0,1
+AMRGLASS_SURVL01,Number of surveillance sites reporting to GLASS: Hospitals,,Not disaggregated or unavailable,EMR,2020,149.0,1
+AMRGLASS_SURVL01,Number of surveillance sites reporting to GLASS: Hospitals,,Not disaggregated or unavailable,EUR,2020,1232.0,1
+AMRGLASS_SURVL01,Number of surveillance sites reporting to GLASS: Hospitals,,Not disaggregated or unavailable,SEAR,2020,129.0,1
+AMRGLASS_SURVL01,Number of surveillance sites reporting to GLASS: Hospitals,,Not disaggregated or unavailable,WPR,2020,104.0,1
+AMRGLASS_SURVL02,Number of surveillance sites reporting to GLASS: Outpatient facilities,,Not disaggregated or unavailable,AFR,2020,9.0,1
+AMRGLASS_SURVL02,Number of surveillance sites reporting to GLASS: Outpatient facilities,,Not disaggregated or unavailable,AMR,2020,6.0,1
+AMRGLASS_SURVL02,Number of surveillance sites reporting to GLASS: Outpatient facilities,,Not disaggregated or unavailable,EMR,2020,59.0,1
+AMRGLASS_SURVL02,Number of surveillance sites reporting to GLASS: Outpatient facilities,,Not disaggregated or unavailable,EUR,2020,19558.0,1
+AMRGLASS_SURVL02,Number of surveillance sites reporting to GLASS: Outpatient facilities,,Not disaggregated or unavailable,SEAR,2020,5.0,1
+AMRGLASS_SURVL02,Number of surveillance sites reporting to GLASS: Outpatient facilities,,Not disaggregated or unavailable,WPR,2020,2.0,1
+AMRGLASS_SURVL03,Number of local clinical laboratories supporting national AMR surveillance sites,,Not disaggregated or unavailable,AFR,2020,14.0,1
+AMRGLASS_SURVL03,Number of local clinical laboratories supporting national AMR surveillance sites,,Not disaggregated or unavailable,EMR,2020,16.0,1
+AMRGLASS_SURVL03,Number of local clinical laboratories supporting national AMR surveillance sites,,Not disaggregated or unavailable,EUR,2020,259.0,1
+AMRGLASS_SURVL03,Number of local clinical laboratories supporting national AMR surveillance sites,,Not disaggregated or unavailable,SEAR,2020,26.0,1
+AMRGLASS_SURVL04,Number of surveillance sites reporting to GLASS: In- and outpatient facilities,,Not disaggregated or unavailable,AFR,2020,11.0,1
+AMRGLASS_SURVL04,Number of surveillance sites reporting to GLASS: In- and outpatient facilities,,Not disaggregated or unavailable,AMR,2020,76.0,1
+AMRGLASS_SURVL04,Number of surveillance sites reporting to GLASS: In- and outpatient facilities,,Not disaggregated or unavailable,EMR,2020,303.0,1
+AMRGLASS_SURVL04,Number of surveillance sites reporting to GLASS: In- and outpatient facilities,,Not disaggregated or unavailable,EUR,2020,308.0,1
+AMRGLASS_SURVL04,Number of surveillance sites reporting to GLASS: In- and outpatient facilities,,Not disaggregated or unavailable,SEAR,2020,87.0,1
+AMRGLASS_SURVL04,Number of surveillance sites reporting to GLASS: In- and outpatient facilities,,Not disaggregated or unavailable,WPR,2020,2075.0,1
+AMRGLASS_SURVL05,Total number of surveillance sites reporting to GLASS,,Not disaggregated or unavailable,AFR,2020,251.0,1
+AMRGLASS_SURVL05,Total number of surveillance sites reporting to GLASS,,Not disaggregated or unavailable,AMR,2020,158.0,1
+AMRGLASS_SURVL05,Total number of surveillance sites reporting to GLASS,,Not disaggregated or unavailable,EMR,2020,527.0,1
+AMRGLASS_SURVL05,Total number of surveillance sites reporting to GLASS,,Not disaggregated or unavailable,EUR,2020,21357.0,1
+AMRGLASS_SURVL05,Total number of surveillance sites reporting to GLASS,,Not disaggregated or unavailable,SEAR,2020,247.0,1
+AMRGLASS_SURVL05,Total number of surveillance sites reporting to GLASS,,Not disaggregated or unavailable,WPR,2020,2181.0,1

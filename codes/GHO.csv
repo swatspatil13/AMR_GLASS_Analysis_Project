@@ -1,0 +1,11 @@
+Dimension,Code,Title,ParentDimension,ParentCode,ParentTitle
+GHO,AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),,,
+GHO,AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),,,
+GHO,AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL),,,
+GHO,AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS,,,
+GHO,AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries,,,
+GHO,AMRGLASS_SURVL01,Number of surveillance sites reporting to GLASS: Hospitals,,,
+GHO,AMRGLASS_SURVL02,Number of surveillance sites reporting to GLASS: Outpatient facilities,,,
+GHO,AMRGLASS_SURVL03,Number of local clinical laboratories supporting national AMR surveillance sites,,,
+GHO,AMRGLASS_SURVL04,Number of surveillance sites reporting to GLASS: In- and outpatient facilities,,,
+GHO,AMRGLASS_SURVL05,Total number of surveillance sites reporting to GLASS,,,

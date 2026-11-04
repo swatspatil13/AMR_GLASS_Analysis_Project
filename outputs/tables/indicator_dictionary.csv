@@ -1,0 +1,11 @@
+IndicatorCode,OfficialDefinition
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC)
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL)
+AMRGLASS_QA01,External Quality Assessment (EQA) provided to the national reference laboratory (NRL)
+AMRGLASS_QA03,External Quality Assessment (EQA) provided to local laboratories participating in GLASS
+AMRGLASS_QA05,Types of Antimicrobial Susceptibility Testing (AST) standards followed by countries
+AMRGLASS_SURVL01,Number of surveillance sites reporting to GLASS: Hospitals
+AMRGLASS_SURVL02,Number of surveillance sites reporting to GLASS: Outpatient facilities
+AMRGLASS_SURVL03,Number of local clinical laboratories supporting national AMR surveillance sites
+AMRGLASS_SURVL04,Number of surveillance sites reporting to GLASS: In- and outpatient facilities
+AMRGLASS_SURVL05,Total number of surveillance sites reporting to GLASS
